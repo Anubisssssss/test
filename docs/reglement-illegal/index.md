@@ -1,0 +1,3 @@
+# 🔫 Règlement RP Illégal
+
+<div class="rules-grid"><a class="rule-button" href="reglement-illegal/"><span class="rule-icon">⚠️</span><div><h3>Règlement illégal</h3><p>Règles générales.</p></div><span class="rule-arrow">›</span></a><a class="rule-button" href="organisations/"><span class="rule-icon">🏴</span><div><h3>Organisations</h3><p>Gangs et territoires.</p></div><span class="rule-arrow">›</span></a><a class="rule-button" href="braquages/"><span class="rule-icon">💰</span><div><h3>Braquages</h3><p>Banques et commerces.</p></div><span class="rule-arrow">›</span></a><a class="rule-button" href="gunfight/"><span class="rule-icon">🎯</span><div><h3>Gunfight</h3><p>Violence et fair-play.</p></div><span class="rule-arrow">›</span></a></div>
